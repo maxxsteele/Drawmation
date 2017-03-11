@@ -4,4 +4,3 @@ A drawing application with a twist.  Why not an app that animates as you draw.  
 Additionally, I've included an example video of a drawing made in Drawmation.
 
 mematron
-mematron@gmail.com
